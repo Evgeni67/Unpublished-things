@@ -1,0 +1,23 @@
+.movie {
+  margin-top: 50px;
+  border: 1px black solid double;
+  border-style: double;
+  width: 350px;
+  height: 590px;
+}
+img {
+  margin-left: 17.5px;
+  margin-bottom: 5px;
+  width: 280px;
+  height: 440px;
+}
+.inputForm {
+  margin-top: 30px;
+  width: 300px;
+}
+.addCommentBtn {
+  width: 300px;
+}
+.searchThing {
+  justify-content: center;
+}
